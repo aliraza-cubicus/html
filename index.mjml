@@ -1,0 +1,151 @@
+<mjml></mjml>
+<mjml owa="desktop">
+  <mj-head>
+  <mj-font name="Helvetica" href="font.css" />
+    <mj-attributes>
+      <mj-image padding="0" />
+      <mj-text padding="0" />
+      <mj-section padding="32px" />
+      <mj-spacer height="20px" />
+      
+      <mj-all font-family="Helvetica, sans-serif" />
+    </mj-attributes>
+
+  </mj-head>
+
+  <mj-body background-color="#F6F6F6">
+
+    <mj-section padding-top="20px" padding-bottom="20px" background-color="#ffffff" border-bottom="1px solid #CECECE">
+      <mj-column width="100%" vertical-align="middle" padding="0">
+        <mj-image src="images/logo.png" srcset="images/logo@2x.png 2x" width="156px" align="left" href="https://pci.itbusinesspartner.nl/moderne-cloudervaring/x"></mj-image>
+      </mj-column>
+    </mj-section>
+
+
+
+    <mj-section padding="0">
+      <mj-column width="100%" vertical-align="middle" padding="0">
+        <mj-image src="images/header-image.png" srcset="images/header-image@2x.png 2x" width="600px" ></mj-image>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section background-color="#ffffff">
+      <mj-column vertical-align="middle">
+        <mj-text font-size="14px" font-weight="light" line-height="19px" color="#000000" padding-bottom="18px">
+          Beste,
+        </mj-text>
+        <mj-text font-size="14px" font-weight="light" line-height="19px" color="#000000" padding-bottom="17px">
+          In onze nieuwe PCI Talks richten we ons op de verschuiving naar de cloud. De cloud wordt steeds meer gezien als een noodzakelijke stap voor organisaties die hun IT-strategie willen moderniseren, hun schaalbaarheid willen vergroten en hun kosten willen verlagen. Een Multi-Cloudomgeving biedt hierin veel mogelijkheden en onze specialisten delen hierover hun kennis. Met <b>PCI Cloud</b> komt dat prima voor elkaar. 
+        </mj-text>
+
+        <mj-text font-size="18px" font-weight="bold" line-height="19px" color="#732477" padding-bottom="10px">
+          Multi Cloud omgeving
+        </mj-text>
+        <mj-text font-size="14px" font-weight="light" line-height="19px" color="#000000" padding-bottom="17px">
+         Een eindbestemming zou een Multi-Cloudomgeving kunnen zijn, waarin jouw bedrijf profiteert van de specifieke voordelen van on-premises, private en public clouds. Uiteraard moet zo’n Multi Cloud-omgeving gemakkelijk te managen zijn, goed worden beveiligd en kosteneffectief zijn in het gebruik.
+        </mj-text>
+
+        <mj-text font-size="18px" font-weight="bold" line-height="19px" color="#732477" padding-bottom="10px">
+         Cloud Experts
+        </mj-text>
+        <mj-text font-size="14px" font-weight="regular" line-height="19px" color="#000000" >
+          Tijdens deze webinar gaan we in gesprek met experts uit het werkveld. Dat zijn Dennis Krukkert - Specialist HPE Greenlake cloud & managed infrastructure en Jan Swaters - Technisch directeur IT bij PCI IT Solutions. 
+          <br>&nbsp;<br>
+          We bespreken het Why-How-What van Cloud in het algemeen en PCI Cloud in het bijzonder. We zoomen in op het managen van meerdere cloud-omgevingen (Multi Cloud), op de beveiliging en natuurlijk ook op het kostenaspect.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+      <mj-section  background-color="#ffffff" padding-top="0px" padding-bottom="0px">
+        <mj-column width="100%"vertical-align="middle" background-color="#732477" padding="20px">
+        <mj-text font-size="14px" font-weight="bold" line-height="19px" color="#ffffff"  padding-bottom="10px">
+          <table>
+            <tr>
+              <td  valign="top" style="padding-left:20px;padding-top:10px"><img src="images/check.png" srcset="images/check@2x.png 2x" widt="16"/></td>
+              <td  valign="top" style="padding-left:20px;padding-top:10px">Wat is het, waarom zou je het gebruiken?</td>
+            </tr>
+            <tr>
+              <td  valign="top" style="padding-left:20px;padding-top:10px"><img src="images/check.png" srcset="images/check@2x.png 2x" widt="16"/>
+              </td>
+              <td  valign="top" style="padding-left:20px;padding-top:10px">Waar moet je op letten bij je overwegingen en welke voordelen ga je precies bereiken? </td>
+            </tr>
+            <tr>
+              <td  valign="top" style="padding-left:20px;padding-top:10px"><img src="images/check.png" srcset="images/check@2x.png 2x" widt="16"/>
+              </td>
+              <td  valign="top" style="padding-left:20px;padding-top:10px">Wat zijn de use cases? </td>
+            </tr>
+          </table>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+      <mj-section background-color="#ffffff">
+        <mj-column vertical-align="middle">
+        <mj-text font-size="14px" font-weight="bold" line-height="19px" color="#732477" padding-bottom="18px">
+        Kortom, deze webinar biedt jou waardevolle inzichten als je - deels - wilt overstappen naar de cloud of als je je cloud-strategie wilt verbeteren. 
+        </mj-text>
+        <mj-text font-size="14px" font-weight="regular" line-height="19px" color="#000000" padding-bottom="20px">
+        Meld je nu aan en krijg waardevolle inzichten van onze experts over hoe je de beste afweging tussen on-premises en cloud bepaalt. 
+        </mj-text padding-bottom="45px">
+
+        <mj-button href=""  padding="0" align="left" border="0" border-radius="0" background-color="#732477" color="#FFFFFF" font-size="14px" font-weight="bold" line-height="19px">Bekijk PCI Talks</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section  background-color="#ffffff" padding-top="0px" padding-bottom="0px">
+      <mj-column vertical-align="middle" background-color="#732477" padding="40px 40px">
+        <mj-text font-size="18px" font-weight="bold" line-height="19px" color="#66C5EE"  padding-bottom="20px">
+        PCI Talks…
+        </mj-text>
+        <mj-text font-size="14px" font-weight="light" line-height="19px" color="#ffffff" >
+        is een Webinar-format waar IT-kennis wordt gedeeld om je verder te helpen met uiteenlopende onderwerpen. Van security tot werken in de Cloud en van managed services omgevingen tot veilig samenwerken. Specialisten en partners van PCI komen maandelijks bij elkaar in de studio om te praten, te adviseren en actuele onderwerpen helder te maken.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" border-bottom="2px solid #CECECE" >
+      <mj-column vertical-align="middle">
+        <mj-text font-size="14px" font-weight="regular" line-height="19px" color="#000000" padding-bottom="17px">
+          Met vriendelijke groet, 
+          <br>Team PCI
+          </mj-text>
+
+        <mj-text font-size="11px" font-weight="light" line-height="15px" color="#000000">
+            T. + 31 88 543 08 08
+          <br>E. marketing@pci.nl
+          <br>I. pci.nl
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+ 
+
+    
+    <mj-section background-color="#FFFFFF">
+      <mj-column width="24%">
+        <mj-text  align="right" font-size="12px" font-weight="300" line-height="15px" color="#676767">
+           2021 All rights reserved 
+          </mj-text>
+          <mj-text align="right" font-size="12px" font-weight="300"  color="#676767">
+            <a href="#" style="color:#676767">Uitschrijven</a>
+          </mj-text>
+      </mj-column>
+      <mj-column width="40%" >
+            <mj-text align="center" font-size="12px" font-weight="300" line-height="15px" color="#676767" padding-bottom="17px">
+              PCI Nederland
+              <br>New Yorkstraat 66
+              <br>1175 RD Lijnden
+              </mj-text>
+      </mj-column>
+      <mj-column width="36%" vertical-align="middle" padding-top="10px">
+        <mj-image src="images/footer.png" srcset="images/footer@2x.png 2x"   >
+      </mj-image>
+      </mj-column>
+    </mj-section>
+
+
+  </mj-body>
+</mjml>
